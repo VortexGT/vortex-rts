@@ -44,6 +44,21 @@
         "index.png",
         "loader.60cc5ae9de1ed1f2.js"
       ]
+    },
+    {
+      "build": "8fe0e31523a8",
+      "time": 1793980320,
+      "files": [
+        "boot.e3be0f64d5cf9ed5.js",
+        "game.041b413cb5cceaf9.pck",
+        "index.apple-touch-icon.png",
+        "index.c7b3054142.audio.position.worklet.js",
+        "index.c7b3054142.audio.worklet.js",
+        "index.c7b3054142.wasm",
+        "index.icon.png",
+        "index.png",
+        "loader.60cc5ae9de1ed1f2.js"
+      ]
     }
   ]
 }
