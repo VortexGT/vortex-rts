@@ -2,35 +2,6 @@
   "retentionHours": 24,
   "releases": [
     {
-      "build": "legacy",
-      "time": 1793938955,
-      "files": [
-        "index.apple-touch-icon.png",
-        "index.c7b3054142.audio.position.worklet.js",
-        "index.c7b3054142.audio.worklet.js",
-        "index.c7b3054142.js",
-        "index.c7b3054142.pck",
-        "index.c7b3054142.wasm",
-        "index.icon.png",
-        "index.png"
-      ]
-    },
-    {
-      "build": "5f7438d3b4c5",
-      "time": 1793938955,
-      "files": [
-        "boot.d98e152f73a28691.js",
-        "game.f396a7d26ca62923.pck",
-        "index.apple-touch-icon.png",
-        "index.c7b3054142.audio.position.worklet.js",
-        "index.c7b3054142.audio.worklet.js",
-        "index.c7b3054142.wasm",
-        "index.icon.png",
-        "index.png",
-        "loader.60cc5ae9de1ed1f2.js"
-      ]
-    },
-    {
       "build": "8064535eef0e",
       "time": 1793938977,
       "files": [
@@ -51,6 +22,21 @@
       "files": [
         "boot.e3be0f64d5cf9ed5.js",
         "game.041b413cb5cceaf9.pck",
+        "index.apple-touch-icon.png",
+        "index.c7b3054142.audio.position.worklet.js",
+        "index.c7b3054142.audio.worklet.js",
+        "index.c7b3054142.wasm",
+        "index.icon.png",
+        "index.png",
+        "loader.60cc5ae9de1ed1f2.js"
+      ]
+    },
+    {
+      "build": "7c898bd10845",
+      "time": 1794243944,
+      "files": [
+        "boot.e3be0f64d5cf9ed5.js",
+        "game.2f2d8da06975a8f4.pck",
         "index.apple-touch-icon.png",
         "index.c7b3054142.audio.position.worklet.js",
         "index.c7b3054142.audio.worklet.js",
