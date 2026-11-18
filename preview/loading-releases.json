@@ -2,21 +2,6 @@
   "retentionHours": 24,
   "releases": [
     {
-      "build": "76bd5c85732f",
-      "time": 1794856309,
-      "files": [
-        "boot.e3be0f64d5cf9ed5.js",
-        "game.d4ff46e9a9ec1788.pck",
-        "index.apple-touch-icon.png",
-        "index.c7b3054142.audio.position.worklet.js",
-        "index.c7b3054142.audio.worklet.js",
-        "index.c7b3054142.wasm",
-        "index.icon.png",
-        "index.png",
-        "loader.60cc5ae9de1ed1f2.js"
-      ]
-    },
-    {
       "build": "a761561b215f",
       "time": 1794870526,
       "files": [
@@ -37,6 +22,21 @@
       "files": [
         "boot.e3be0f64d5cf9ed5.js",
         "game.5de9337885bcbff8.pck",
+        "index.apple-touch-icon.png",
+        "index.c7b3054142.audio.position.worklet.js",
+        "index.c7b3054142.audio.worklet.js",
+        "index.c7b3054142.wasm",
+        "index.icon.png",
+        "index.png",
+        "loader.60cc5ae9de1ed1f2.js"
+      ]
+    },
+    {
+      "build": "fc3b24c3349c",
+      "time": 1795041052,
+      "files": [
+        "boot.e3be0f64d5cf9ed5.js",
+        "game.11e5ca7a4381bc0b.pck",
         "index.apple-touch-icon.png",
         "index.c7b3054142.audio.position.worklet.js",
         "index.c7b3054142.audio.worklet.js",
