@@ -1,0 +1,20 @@
+{
+  "retentionHours": 24,
+  "releases": [
+    {
+      "build": "1232f0de9fa6",
+      "time": 1795042143,
+      "files": [
+        "boot.e3be0f64d5cf9ed5.js",
+        "engine.ae11c2ed8d31ee98.audio.position.worklet.js",
+        "engine.ae11c2ed8d31ee98.audio.worklet.js",
+        "engine.ae11c2ed8d31ee98.wasm",
+        "game.3d39704cfa6d0c6e.pck",
+        "index.apple-touch-icon.png",
+        "index.icon.png",
+        "index.png",
+        "loader.60cc5ae9de1ed1f2.js"
+      ]
+    }
+  ]
+}
